@@ -5,4 +5,8 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+Hi, welcome to my first website.
+
+## Contact
+
+my23007@essex.ac.uk
