@@ -7,6 +7,6 @@ title: About
 
 Hi, welcome to my first website.
 
-## Contact
+### Contact
 
 my23007@essex.ac.uk
