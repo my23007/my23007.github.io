@@ -11,4 +11,4 @@ tags: [Python, intro, certificate]
 This post is meant to summarize some of the key concepts I have learned in the course *Advanced Deep Learning with Keras*
 
 
-![datacamp certification](/assets/images/banners/keras.jpg)
+![datacamp certification](/assets/images/banners/keras.JPG)
