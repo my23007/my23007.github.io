@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
+title: MBA degree
+subtitle: MBA
 categories: Python
-tags: [Python, intro, certificate]
+tags: [MBA, Leicester, certificate]
 ---
 
-## Introduction to Python
+## MBA degree
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+This post is to showcase my MBA degree obtained from *university of Leicester*
 
 
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+![datacamp certification](/assets/images/banners/mba.JPG)
