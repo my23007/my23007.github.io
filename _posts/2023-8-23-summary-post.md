@@ -22,7 +22,8 @@ companies like Target should invest more in cybersecurity to enhance customer ex
 In this digital era, organizations use technology for their daily operations.Hence, understanding business context and security requirements are vital in having the best approach to security design.Moreover, Howard M. & LeBlanc. D. (2003) highlight the importance of design, coding,testing, and documentation for delivering secure systems.In this conext,it’s imperative that organizations like Target adopt a disciplined process that incorporates these aspects to protect their assets from adversaries.
 
 Reference:
-Target Security BREACH, 2017, online available at: https://medium.com/@cruisecoders./case-study-target-security-breach-3803d2182c91; (accessed 9 August 2023).
-Howard M. & LeBlanc. D. (2003) Writing Secure Code. 2nd ed. Microsoft Press
+
+- Target Security BREACH, 2017, online available at: https://medium.com/@cruisecoders./case-study-target-security-breach-3803d2182c91; (accessed 9 August 2023).
+- Howard M. & LeBlanc. D. (2003) Writing Secure Code. 2nd ed. Microsoft Press
 
 
