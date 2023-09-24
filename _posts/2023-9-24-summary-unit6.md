@@ -1,14 +1,12 @@
-
 ---
 layout: post
-title: Unit 6 reflection post
+title: Unit6 Reflection post
 subtitle: Summary
-categories: Reflection post
+categories: Unit6 Reflection post
 tags: [Cyber security, Essex, Threat models]
 ---
 
-## Unit 6 post
-
+## Unit 6 Reflection post
 
 Organizations face challenges to secure their assets from potential cyber-attacks since such attacks are becoming more and more sophisticated; hence implementing network security is becoming vital in this digital connected world.
 In the initial post, we have seen how Vodafone Portugal was a victim of a cyber-attack in 2022, which caused their network to be offline and suspended their services to customers, (Cyber security intelligence, accessed 5 September 2023). Firewalls can be the first line of defense against cyber attacks, but we have seen that firewalls have pros as well as limitations.Kornaros et al (2020) argue that hardware firewall stops unauthorized access from untrusted applications. Moreover, the hardware firewall has key benefits such as having the possibility to configure specific rules for traffic and controlling the traffic that reaches the network, (what is hardware firewall, accessed 5 September 2023). However, the drawback for this approach is that it can be vulnerable to malicious attacks from the inside. (Essex, 2023)
