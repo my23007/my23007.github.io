@@ -14,7 +14,7 @@ Moreover, firewalls can be arguably vulnerable to denial-of-service attacks sinc
 The NGFW,on the other hand, has the SYN rate limiting feature which can arguably help in preventing denial of service attacks, however  there can be exceptions where this feature malfunctions making it vulnerable to such attacks, (Selvaraj, 2018). 
 The rise of machine learning and artificial intelligence has led practitioners to explore this area.For example, Dawadi et al (2023) examined the use of deep learning techniques with web application firewalls to mitigate denial of service. They concluded that the deep learning model was 97.57% accurate in denial-of-service detection.
 
-Organizations should be proactive in their counter measures to cyber-attacks; it's important to understand the context of what needs to be protected and perform the risk assessment, then design the threat model that best fits the use case and requirements. Applying effective network security can arguably serve as the first line of defense against malicious attacks.
+Organizations should be proactive in their counter measures to cyber-attacks; it's important to understand the context of what needs to be protected and perform the risk assessment, then design the threat model that best fits the use case and requirements. Applying network security can arguably serve as the first line of defense, in addition to the periodic penetration tests for security audits. This can lead to an effective strategy against malicious attacks.
 
 
 References:
