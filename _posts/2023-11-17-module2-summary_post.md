@@ -15,11 +15,11 @@ Spremić  and Šimunic (2018) argue that research has shown that cyber attacks a
 I agree with the views mentioned in report. The IEA's (2022) highlights on the importance of lowering emissions and reducing the dependence on fuel and and accelerating the flow of new renewables projects. This can be achieved through digital transformation as Wei et al (2019) highlight that this will improve system efficiency, reliability and reduce operation and maintenance costs. For example, Shell was able to save over $ 1 million by using IoT devices to monitor oil fields. In addition, machine learning and artificial intelligence have become a vital element in the construction of the new Shell strategy, which optimizes all possible operations in order to achieve higher revenues and reduce losses kyotutechnology,2023).Furthermore, a survery conducted by Deloitte confirmed that there exists a strong connection between the digital maturity of an enterprise and its net revenue and net profit margin (Gurumurthy et al, 2020).Moreover, decreased fuel waste; fewer carbon emissions; and improved insight into cybersecurity risks are all benefits realized by the fully digital organization.
 
 
-References:
+# References
 
 
--IEA (2022). Executive Summary – World Energy Outlook 2022. Available from: https://www.iea.org/reports/world-energy-outlook-2022/executive-summary [accessed 13 November 2023].
--Gurmurthy,R., Schatsky,D. & Camhi,J. (2020) Uncovering the connection between digital maturity and financial performance. Available from:https://www2.deloitte.com/us/en/insights/topics/digital-transformation/digital-transformation-survey.html [accessed 16 November 2023].
+- IEA (2022). Executive Summary – World Energy Outlook 2022. Available from: https://www.iea.org/reports/world-energy-outlook-2022/executive-summary [accessed 13 November 2023].
+- Gurmurthy,R., Schatsky,D. & Camhi,J. (2020) Uncovering the connection between digital maturity and financial performance. Available from:https://www2.deloitte.com/us/en/insights/topics/digital-transformation/digital-transformation-survey.html [accessed 16 November 2023].
 - kyotutechnology (2023) Energy industry – 3 examples of digital transformation. Available from:https://www.kyotutechnology.com/energy-industry-3-examples-of-digital-transformation/ [accessed 16 November 2023].
 - Liu, C. (2022) Key Factors Identification and Path Selection of Enterprise Digital Transformation under Multicriteria Interaction. Mathematical problems in engineering. [Online] 20221–9.
 - Ramos, J.H. & Skármeta, A. eds., 2020. Security and Privacy in the Internet of Things: Challenges and Solutions (Vol. 27). IOS Press.
