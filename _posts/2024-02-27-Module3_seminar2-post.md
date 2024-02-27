@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Seminar2 post
+title: Module 3 Seminar2 post
 subtitle: Summary
-categories: Unit3 seminar2 post
+categories: Seminar2 post
 tags: [Cyber security, Essex, Security and Risk management]
 ---
 
