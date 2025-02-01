@@ -3,7 +3,7 @@ layout: post
 title: Module 8 unit1 post
 subtitle: Summary
 categories: Module 8 unit1 discussion
-tags: [Cyber security, Essex, Research methods]
+tags: [Cybersecurity, Essex, Research methods]
 ---
 
 I selected the "Abusive Workplace Behavior" (ACM, N.D.) because of its relevance among groups and teams.
