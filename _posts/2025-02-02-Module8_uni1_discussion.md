@@ -5,6 +5,7 @@ subtitle: Summary
 categories: Module 8 unit1 discussion
 tags: [Cybersecurity, Essex, Research methods]
 ---
+## Module 8 unit1 collaborative discussion
 
 I selected the "Abusive Workplace Behavior" (ACM, N.D.) because of its relevance among groups and teams.
 The ACM case study on abusive workplace behavior highlights significant ethical breaches by a technical team leader, Max, whose actions contravene multiple principles of the ACM Code of Ethics. Max's verbal abuse towards team members, particularly Diane, not only caused harm but also failed to maintain a safe and respectful working environment, violating Principle 1.1, which emphasizes avoiding harm and contributing to society and human well-being. Additionally, his failure to give proper credit to team members by removing their names from journal submissions and preventing them from appearing on stage breaches Principle 1.5, which mandates honoring property rights, including intellectual property. Furthermore, Max's unprofessional communication style contravenes Principle 2.2, which calls for high standards of professional competence and conduct.
